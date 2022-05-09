@@ -1,6 +1,8 @@
 
 > Open this page at [https://drmikecooke.github.io/comp_data/](https://drmikecooke.github.io/comp_data/)
 
+# Get compensation data from BME280 device on envirobit
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
